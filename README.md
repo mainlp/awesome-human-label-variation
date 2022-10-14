@@ -16,7 +16,7 @@ Please cite our [paper (Plank, 2022 EMNLP)]() if you find this resource useful i
     booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing ",
     month = dec,
     year = "2022",
-    address = "Abu Dhabi)",
+    address = "Abu Dhabi",
     publisher = "Association for Computational Linguistics",
 }
 ```

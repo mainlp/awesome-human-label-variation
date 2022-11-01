@@ -35,9 +35,9 @@ Please cite our [paper (Plank, 2022 EMNLP)]() if you find this resource useful i
 | Berzak et al., 2016 | Dependency Parsing, WSJ-23, 4 annotators | https://people.csail.mit.edu/berzak/agreement/ | 
 | Peng et al., 2022 | GCDT, Mandarin Chinese discourse treebank, small subsection with double annotations | https://github.com/logan-siyao-peng/GCDT/tree/main/data | 
 | Bryant and Ng, 2015   | Grammatical error correction | http://www.comp.nus.edu.sg/~nlp/sw/10gec_annotations.zip | 
-| Poesio et al. 2019 & PD (Phrase Detectives dataset): Anaphora and Information Status Classification | https://github.com/dali-ambiguity/Phrase-Detectives-Corpus-2.1.4 |
+| Poesio et al. 2019 | PD (Phrase Detectives dataset): Anaphora and Information Status Classification | https://github.com/dali-ambiguity/Phrase-Detectives-Corpus-2.1.4 |
  | Dumitrache et al. 2018 | Medical Relation Extraction (MRE) | https://github.com/CrowdTruth/Open-Domain-Relation-Extraction |
-| Bassignana and Plank, 2022 & CrossRE, relation extraction, small doubly-annotated subset | https://github.com/mainlp/CrossRE |
+| Bassignana and Plank, 2022 | CrossRE, relation extraction, small doubly-annotated subset | https://github.com/mainlp/CrossRE |
 | Dumitrache et al. 2018 | Frame Disambiguation | https://github.com/CrowdTruth/FrameDisambiguation | 
 | Snow et al. 2008 | RTE (recognizing textual entailment; 800 hypothesis-premise pairs) collected by Dagan et al. 2005, re-annotated; includes further datasets on temporal ordering, WSD, word similarity and affective text  | https://sites.google.com/site/nlpannotations/ |
 | Pavlick and Kwiatkowski 2019 | NLI (natural language inference) inherent disagreement dataset, approx. 500 RTE instances from Dagan et al. 2005 re-annotated by 50 annotators | https://github.com/epavlick/NLI-variation-data |

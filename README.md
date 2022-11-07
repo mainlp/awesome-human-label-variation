@@ -3,7 +3,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome datasets with human label variation (un-aggregated labels) in Natural Language Processing and Computer Vision, including links to related initiatives and key references. The key focus of the table provided below is to collect datasets that contain multiple annotations per instance, to enable learning with human label variation/disagreement. The starting point of Table 1 was the table in the appendix of [our paper](ARXIVLINK). 
+A curated list of awesome datasets with human label variation (un-aggregated labels) in Natural Language Processing and Computer Vision, including links to related initiatives and key references. The key focus of the table provided below is to collect datasets that contain multiple annotations per instance, to enable learning with human label variation/disagreement. The starting point of Table 1 was the table in the appendix of [our paper](https://arxiv.org/abs/2211.02570). 
 
 ### :jigsaw: Something not listed? 
 

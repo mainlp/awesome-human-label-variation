@@ -11,7 +11,7 @@ If you know of resources or papers or links that are not yet listed, please help
 
 ### :mortar_board: Citing 
 
-Please cite our paper [Plank, 2022 EMNLP]() if you find this repository useful:
+Please cite our paper [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570) if you find this repository useful:
 
 ```
 @inproceedings{plank-2022-emnlp,

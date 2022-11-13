@@ -83,7 +83,9 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | Liu et al., 2019 |  Work and Well-being Job-related Tweets, 5 annotators | https://github.com/Homan-Lab/pldl_data | :pie: |
 | Simpson et al., 2019 | Humour: pairwise funniness judgements & https://zenodo.org/record/5130737 | :shrug:  |
 | Akhtar et al., 2019 | HS-brexit; Abusive Language on Brexit and annotated for hate speech (HS), aggressiveness and offensiveness, 6 annotators, extended and new parts part of Le-Wi-Di SemEval23  | https://le-wi-di.github.io/ | :thumbsup: :thumbsdown: |
-| Almanea and Poesio 2022 | ArMIS; New Le-Wi-Di SemEval23 dataset on Arabic tweets annotated for misogyny detection | https://le-wi-di.github.io/ | :thumbsup: :thumbsdown: | 
+| Almanea and Poesio 2022 | ArMIS; New Le-Wi-Di SemEval23 dataset on Arabic tweets annotated for misogyny detection | https://le-wi-di.github.io/ | :thumbsup: :thumbsdown: |
+| Sap et al., 2022 |  Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection | http://maartensap.com/racial-bias-hatespeech/ | |
+| Kumar et al., 2021 |  Designing Toxic Content Classification for a Diversity of Perspectives |  https://data.esrg.stanford.edu/study/toxicity-perspectives (contact author for password) | |
      
 #### Computer Vision (CV) datasets
 

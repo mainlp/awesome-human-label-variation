@@ -86,6 +86,8 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | Almanea and Poesio 2022 | ArMIS; New Le-Wi-Di SemEval23 dataset on Arabic tweets annotated for misogyny detection | https://le-wi-di.github.io/ | :thumbsup: :thumbsdown: |
 | Sap et al., 2022 |  Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection | http://maartensap.com/racial-bias-hatespeech/ | |
 | Kumar et al., 2021 |  Designing Toxic Content Classification for a Diversity of Perspectives |  https://data.esrg.stanford.edu/study/toxicity-perspectives (contact author for password) | |
+| [Nguyen et al., 2017](https://aclanthology.org/P17-1028/) | Biomedical Infomation Retrieval, each doc is annotated by roughly 5 Amazon Mechanical Turk workers |  https://github.com/yinfeiy/PICO-data | |
+| [Zhang et al., 2022](https://aclanthology.org/2022.acl-long.200/) | Chinese Sentiment Words Identification, each sentence is annotated by 3 ~ 5 workers |  https://github.com/izhx/crowd-OEI | |
      
 #### Computer Vision (CV) datasets
 

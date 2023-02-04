@@ -89,7 +89,8 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | [Nguyen et al., 2017](https://aclanthology.org/P17-1028/) | Biomedical Infomation Retrieval, each doc is annotated by roughly 5 Amazon Mechanical Turk workers |  https://github.com/yinfeiy/PICO-data | |
 | [Zhang et al., 2022](https://aclanthology.org/2022.acl-long.200/) | Chinese Sentiment Words Identification, each sentence is annotated by 3 ~ 5 workers |  https://github.com/izhx/crowd-OEI | |
 | [Grubenmann et al., 2018](https://aclanthology.org/L18-1372/) | Sentiment annotations for Swiss German sentences | https://github.com/spinningbytes/SB-CH | |
-| [Ji et al., 2022](https://arxiv.org/pdf/2211.16492.pdf)| KiloGram tangram dataset, 10 annotations per tangram (EMNLP 2022 best long paper award)| https://github.com/lil-lab/kilogram | | 
+| [Ji et al., 2022](https://arxiv.org/pdf/2211.16492.pdf)| KiloGram tangram dataset, 10 annotations per tangram (EMNLP 2022 best long paper award)| https://github.com/lil-lab/kilogram | |
+| [Kennedy et al., 2020](https://psyarxiv.com/hqjxn/)|  The gab hate corpus: A collection of 27k posts annotated for hate speech. [#Labels: 2, #Unique Raters: 18, Atleast 3 annotations per instance]| https://osf.io/edua3/ | |
      
 #### Computer Vision (CV) datasets
 

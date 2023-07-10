@@ -99,4 +99,5 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | Rodrigues et al. 2018 | LabelMe: Image classification dataset with 8 categories, re-annotated   | http://fprodrigues.com//publications/deep-crowds/ | :mag:, :shrug:  | 
 | Peterson et al., 2019 | Cifar10H: Image classification with 10 categories, re-annotated | http://github.com/jcpeterson/cifar-10h | :mag:, :shrug: |
 | Cheplygina et al. 2018 | Medical lesion classification challenge, 6 annotators each | https://figshare.com/s/5cbbce14647b66286544 | |
+| Wei, Zhu et al., 2022 | CIFAR-100N | http://noisylabels.com/ | | 
 

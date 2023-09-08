@@ -92,6 +92,8 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | [Ji et al., 2022](https://arxiv.org/pdf/2211.16492.pdf)| KiloGram tangram dataset, 10 annotations per tangram (EMNLP 2022 best long paper award)| https://github.com/lil-lab/kilogram | |
 | [Kennedy et al., 2020](https://psyarxiv.com/hqjxn/)|  The gab hate corpus: A collection of 27k posts annotated for hate speech. [#Labels: 2, #Unique Raters: 18, Atleast 3 annotations per instance]| https://osf.io/edua3/ | |
 | [Haber et al., 2023](https://aclanthology.org/2023.acl-long.711.pdf) |  SOA: Singapore online attacks, multilingual toxic data annotated with 3 annotators. | [https://github.com/rewire-online/singapore-online-attacks/tree/main](https://github.com/rewire-online/singapore-online-attacks/tree/main) | |
+| [Sap et al., 2021](https://aclanthology.org/2020.acl-main.486.pdf) | Social Bias Frames: Reasoning about Social and Power Implications of Language (3 annotators) | https://maartensap.com/social-bias-frames/ | |
+| [Fleisig et al., 2023](https://aclanthology.org/2023.acl-long.343.pdf) |  FairPrism: Evaluating Fairness-Related Harms in Generated Text (3 annotators) | https://github.com/microsoft/FairPrism | |
 
      
 #### Computer Vision (CV) datasets

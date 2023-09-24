@@ -94,7 +94,7 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | [Haber et al., 2023](https://aclanthology.org/2023.acl-long.711.pdf) |  SOA: Singapore online attacks, multilingual toxic data annotated with 3 annotators. | [https://github.com/rewire-online/singapore-online-attacks/tree/main](https://github.com/rewire-online/singapore-online-attacks/tree/main) | |
 | [Liu et al., 2022](https://aclanthology.org/2022.aacl-main.9/) | Word Associations with 19K explanations and 725 relation labels from 5 annotators | [https://github.com/ChunhuaLiu596/WAX/](https://github.com/ChunhuaLiu596/WAX/) | |
 | [Frermann et al., 2023](https://aclanthology.org/2023.acl-long.486/) | Multi-label frame annotations of 428 news articles, each labeled by 2-3 annotators | [https://github.com/phenixace/narrative-framing/tree/main/data](https://github.com/phenixace/narrative-framing/tree/main/data) | |
-| [Sap et al., 2021](https://aclanthology.org/2020.acl-main.486.pdf) | Social Bias Frames: Reasoning about Social and Power Implications of Language (3 annotators) | https://maartensap.com/social-bias-frames/ | |
+| [Sap et al., 2020](https://aclanthology.org/2020.acl-main.486.pdf) | Social Bias Frames: Reasoning about Social and Power Implications of Language (3 annotators) | https://maartensap.com/social-bias-frames/ | |
 | [Fleisig et al., 2023](https://aclanthology.org/2023.acl-long.343.pdf) |  FairPrism: Evaluating Fairness-Related Harms in Generated Text (3 annotators) | https://github.com/microsoft/FairPrism | |
 
      

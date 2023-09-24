@@ -27,14 +27,14 @@ Please cite our paper [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570) if y
 
 ## Human Label Variation - Related Initiatives and further reading 
 
-### Initiatives and Evaluation Campaigns
+### Initiatives, Evaluation Campaigns and Workshops
 
 Icons refer to the following:
 
 * :thumbsup: :thumbsdown: [SemEval 2023 Shared Task 11 on Learning with Disagreement (Le-Wi-Di)](https://le-wi-di.github.io/): 2nd Shared task on subjective NLP tasks :high_brightness: on-going! 
 * :shrug: [SemEval 2021 Shared Task 11 on Learning with Disagreement](https://sites.google.com/view/semeval2021-task12/home): 1st Shared task, which included core NLP and computer vision tasks
 * :pie: [Perspectivist Data Manifesto (PDAI)](https://pdai.info/): Website that contains key references and a first list of non-aggregated datasets 
-* :speaking_head: NLPerspectives, [Workshop on Perspectivist Approaches to NLP](https://nlperspectives.di.unito.it/), first edition held at LREC 2022
+* :speaking_head: NLPerspectives, [Workshop on Perspectivist Approaches to NLP](https://nlperspectives.di.unito.it/), first edition held at LREC 2022, 2nd edition [2023 Workshop on Perspectivist Approaches to NLP co-located with ECAI 2023](https://nlperspectives.di.unito.it/w/2nd-workshop-on-perspectivist-approaches-to-nlp/]
 
 ### Survey and Key Selected References
 

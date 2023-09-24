@@ -100,6 +100,7 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | [Forbes et al., 2020](https://arxiv.org/pdf/2011.00620.pdf) | Social Chemistry 101: Learning to Reason about Social and Moral Norms (up to 5 crowd annotations) | https://github.com/mbforbes/social-chemistry-101 | :small_orange_diamond: | 
 | [Lourie et al., 2021](https://arxiv.org/abs/2008.09094) |  Scruples-dilemmas: A Corpus of Community Ethical Judgments (with 5 crowd annotations per instance) | https://github.com/allenai/scruples | :small_orange_diamond: | 
 | [Potts et al., 2021](https://arxiv.org/abs/2012.15349) | Dyna-Sentiment (5 crowd annotations) | https://github.com/cgpotts/dynasent | :small_orange_diamond: |
+| [Danescu-Niculescu-Mizil et al. 2013](https://arxiv.org/abs/1306.6078) | Wikipedia Politeness (with up to 5 crowd annotations) | https://convokit.cornell.edu/documentation/wiki_politeness.html or https://github.com/minnesotanlp/Quantifying-Annotation-Disagreement | :small_orange_diamond: |
 
 
      

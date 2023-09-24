@@ -48,6 +48,7 @@ Icons refer to the following:
 * :eyeglasses: Davani et al., 2022. [Dealing with Disagreements: Looking Beyond the Majority Vote in Subjective Annotations](https://aclanthology.org/2022.tacl-1.6/) TACL. Examines, a.o., whether the uncertainty in predictions is correlated with whether the
 multi-task model was able to correctly predict the majority label.
 * Jiang & de Marneffe, 2022. [Investigating Reasons for Disagreement in Natural Language Inference](https://github.com/njjiang/NLI_disagreement_taxonomy). TACL. Provides a novel linguistic taxonomy to characterize disagreements in natural language inference datasets.
+* :small_orange_diamond: Wang et al., 2023. [Everyone’s Voice Matters: Quantifying Annotation Disagreement Using Demographic Information](https://github.com/minnesotanlp/Quantifying-Annotation-Disagreement). AAAI. Predict human label variation on five subjective tasks, examine demographic information.  
 
 This list above are selected key references. Please see our EMNLP 2022 theme paper (Plank, 2022) for further references related to annotator culture/backgrounds, different terms proposed in the literature and more. If you know of relevant related work (not datasets), please leave an Issue. For more datasets, please see contributing.md
 
@@ -94,11 +95,15 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | [Haber et al., 2023](https://aclanthology.org/2023.acl-long.711.pdf) |  SOA: Singapore online attacks, multilingual toxic data annotated with 3 annotators. | [https://github.com/rewire-online/singapore-online-attacks/tree/main](https://github.com/rewire-online/singapore-online-attacks/tree/main) | |
 | [Liu et al., 2022](https://aclanthology.org/2022.aacl-main.9/) | Word Associations with 19K explanations and 725 relation labels from 5 annotators | [https://github.com/ChunhuaLiu596/WAX/](https://github.com/ChunhuaLiu596/WAX/) | |
 | [Frermann et al., 2023](https://aclanthology.org/2023.acl-long.486/) | Multi-label frame annotations of 428 news articles, each labeled by 2-3 annotators | [https://github.com/phenixace/narrative-framing/tree/main/data](https://github.com/phenixace/narrative-framing/tree/main/data) | |
-| [Sap et al., 2020](https://aclanthology.org/2020.acl-main.486.pdf) | Social Bias Frames: Reasoning about Social and Power Implications of Language (3 annotators) | https://maartensap.com/social-bias-frames/ | |
+| [Sap et al., 2020](https://aclanthology.org/2020.acl-main.486.pdf) | Social Bias Frames: Reasoning about Social and Power Implications of Language (3 annotators) | https://maartensap.com/social-bias-frames/ | :small_orange_diamond: |
 | [Fleisig et al., 2023](https://aclanthology.org/2023.acl-long.343.pdf) |  FairPrism: Evaluating Fairness-Related Harms in Generated Text (3 annotators) | https://github.com/microsoft/FairPrism | |
+| [Forbes et al., 2020](https://arxiv.org/pdf/2011.00620.pdf) | Social Chemistry 101: Learning to Reason about Social and Moral Norms (up to 5 crowd annotations) | https://github.com/mbforbes/social-chemistry-101 | :small_orange_diamond: | 
+| [Lourie et al., 2021](https://arxiv.org/abs/2008.09094) |  Scruples-dilemmas: A Corpus of Community Ethical Judgments (with 5 crowd annotations per instance) | https://github.com/allenai/scruples | :small_orange_diamond: | 
+| [Potts et al., 2021](https://arxiv.org/abs/2012.15349) | Dyna-Sentiment (5 crowd annotations) | https://github.com/cgpotts/dynasent | :small_orange_diamond: |
+
 
      
-#### Computer Vision (CV) datasets
+####  Computer Vision (CV) datasets
 
 | Reference | Name or Description | URL | 
 |:----- |:----- |:----- |    

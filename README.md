@@ -48,7 +48,7 @@ Icons refer to the following:
 * :eyeglasses: Davani et al., 2022. [Dealing with Disagreements: Looking Beyond the Majority Vote in Subjective Annotations](https://aclanthology.org/2022.tacl-1.6/) TACL. Examines, a.o., whether the uncertainty in predictions is correlated with whether the
 multi-task model was able to correctly predict the majority label.
 * Jiang & de Marneffe, 2022. [Investigating Reasons for Disagreement in Natural Language Inference](https://github.com/njjiang/NLI_disagreement_taxonomy). TACL. Provides a novel linguistic taxonomy to characterize disagreements in natural language inference datasets.
-* :small_orange_diamond: Wang et al., 2023. [Everyone’s Voice Matters: Quantifying Annotation Disagreement Using Demographic Information](https://github.com/minnesotanlp/Quantifying-Annotation-Disagreement). AAAI. Predict human label variation on five subjective tasks, examine demographic information.  
+* :small_orange_diamond: Wan et al., 2023. [Everyone’s Voice Matters: Quantifying Annotation Disagreement Using Demographic Information](https://github.com/minnesotanlp/Quantifying-Annotation-Disagreement). AAAI. Predict human label variation on five subjective tasks, examine demographic information.  
 
 This list above are selected key references. Please see our EMNLP 2022 theme paper (Plank, 2022) for further references related to annotator culture/backgrounds, different terms proposed in the literature and more. If you know of relevant related work (not datasets), please leave an Issue. For more datasets, please see contributing.md
 

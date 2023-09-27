@@ -112,4 +112,6 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | Peterson et al., 2019 | Cifar10H: Image classification with 10 categories, re-annotated | http://github.com/jcpeterson/cifar-10h | :mag:, :shrug: |
 | Cheplygina et al. 2018 | Medical lesion classification challenge, 6 annotators each | https://figshare.com/s/5cbbce14647b66286544 | |
 | Wei, Zhu et al., 2022 | CIFAR-100N | http://noisylabels.com/ | | 
+| Nguyen, Ha et al. 2020 | VinDR-CXR: Object detection dataset on chest x-ray images | https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/ or https://vindr.ai/datasets/cxr | |
+| Tschirschwitz, David et al. 2022 | TexBiG: Instance segmentation dataset on historical layout analysis | https://zenodo.org/record/8347059 or https://www.kaggle.com/datasets/davidtschirschwitz/texbig-v2-0-train-val | |
 

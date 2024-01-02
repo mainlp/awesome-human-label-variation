@@ -101,7 +101,7 @@ This list above are selected key references. Please see our EMNLP 2022 theme pap
 | [Lourie et al., 2021](https://arxiv.org/abs/2008.09094) |  Scruples-dilemmas: A Corpus of Community Ethical Judgments (with 5 crowd annotations per instance) | https://github.com/allenai/scruples | :small_orange_diamond: | 
 | [Potts et al., 2021](https://arxiv.org/abs/2012.15349) | Dyna-Sentiment (5 crowd annotations) | https://github.com/cgpotts/dynasent | :small_orange_diamond: |
 | [Danescu-Niculescu-Mizil et al. 2013](https://arxiv.org/abs/1306.6078) | Wikipedia Politeness (with up to 5 crowd annotations) | https://convokit.cornell.edu/documentation/wiki_politeness.html or https://github.com/minnesotanlp/Quantifying-Annotation-Disagreement | :small_orange_diamond: |
-| [Madeddu et al., 2023](https://ceur-ws.org/Vol-3596/paper29.pdf) | DisaggregHateIt: A Disaggregated Italian Dataset of Hate Speech (hate, irony, stance, between 1 and 13 annotations per instance) | https://github.com/madeddumarco/DisaggregHateIt | | 
+| [Madeddu et al., 2023](https://ceur-ws.org/Vol-3596/paper29.pdf) | DisaggregHateIt: A Disaggregated Italian Dataset of Hate Speech (1.1k tweets annotated for hate, irony, stance; between 1 and 13 annotations per instance) | https://github.com/madeddumarco/DisaggregHateIt | | 
 
 
      
